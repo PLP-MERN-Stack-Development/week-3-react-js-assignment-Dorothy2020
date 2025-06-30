@@ -1,0 +1,12 @@
+# dependencies
+node_modules/
+
+# lock files (optional)
+package-lock.json
+
+# build output
+dist/
+
+# system files
+.DS_Store
+.env
